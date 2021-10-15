@@ -141,6 +141,10 @@ http://localhost:8080/
 username: root  
 password: TVwqwn$3QUv7
 
+Database: docker-lamp
+username: docker-lamp  
+password: docker-lamp
+
 ## Redis
 
 It comes with Redis. It runs on default port `6379`.
