@@ -1,4 +1,4 @@
-#  LAMP stack built with Docker Compose from apache-stretch witch php-7.3 + mariadb 10.3 + redis + pphpmyadmin
+#  LAMP stack built with Docker Compose
 
   
 
@@ -8,9 +8,9 @@
 
 A basic LAMP stack environment built using Docker Compose. It consists of the following:
 
-* PHP
+* PHP 7.3
 * Apache
-* MySQL
+* Mariadb 10.3
 * phpMyAdmin
 * Redis
 
