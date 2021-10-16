@@ -2,7 +2,7 @@
 
   
 
-![Landing Page](https://github.com/wysantos/docker-lamp/blob/main/www/lamp.png)
+![Landing Page](https://github.com/wysantos/docker-lamp/raw/main/www/lamp.png)
 
   
 
