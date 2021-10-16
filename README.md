@@ -2,7 +2,7 @@
 
   
 
-![Landing Page](https://preview.ibb.co/gOTa0y/LAMP_STACK.png)
+![Landing Page](https://github.com/wysantos/docker-lamp/blob/main/www/lamp.png)
 
   
 
